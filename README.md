@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sushil Khatri @SuseelKc
 - 👀 I’m interested in Web Development,Blockchain & AI
-- 🌱 I’m currently learning Web Development on Laravel 
+- 🌱 I’m currently engaged in Web Development on Laravel and .Net Web Api
 - 💞️ I’m looking to collaborate on Laravel related projects
 - 📫 sushil.khatri.np@gmail.com
 
